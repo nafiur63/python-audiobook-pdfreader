@@ -2,14 +2,14 @@
  Python program to read pdf
 
 ### Setup and activate virtual environment
- python -m venv name
+    python -m venv name
  
- source name/Scripts/activate
+    source name/Scripts/activate
 
 ### Install pyttsx3 and pymupdf packages
- pip install pyttsx3
+    pip install pyttsx3
  
- pip install pymupdf
+    pip install pymupdf
 
 ### Deactivate virtual environment
- deactivate
+    deactivate
